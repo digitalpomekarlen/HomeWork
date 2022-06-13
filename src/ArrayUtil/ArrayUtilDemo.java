@@ -39,7 +39,7 @@ public class ArrayUtilDemo {
 
         //Sum elements of array
 
-        System.out.println("Average of array is " + demoArray.SumOfArray(numbers));
+        System.out.println("Sum elements of array is " + demoArray.SumOfArray(numbers));
 
 
 
